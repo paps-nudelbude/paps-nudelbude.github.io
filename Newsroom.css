@@ -70,15 +70,14 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 622px;
+  min-height: 643px;
 }
 
 .u-section-2 .u-group-1 {
   height: auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
   min-height: 482px;
   --radius: 50px;
+  margin: 101px 0 60px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -105,6 +104,8 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
     height: auto;
   }
 

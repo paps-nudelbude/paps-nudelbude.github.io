@@ -66,7 +66,7 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 527px;
+  min-height: 597px;
 }
 
 .u-section-2 .u-tabs-1 {
@@ -311,7 +311,7 @@
 }
 
 .u-section-2 .u-container-layout-3 {
-  padding: 30px;
+  padding: 30px 0;
 }
 
 .u-section-2 .u-table-3 {
@@ -418,7 +418,7 @@
 }
 
 .u-section-2 .u-container-layout-4 {
-  padding: 30px;
+  padding: 30px 0;
 }
 
 .u-section-2 .u-table-4 {
@@ -555,16 +555,6 @@
 
   .u-section-2 .u-tab-link-4 {
     font-size: 1.1111111111111112rem;
-  }
-
-  .u-section-2 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 }
 
